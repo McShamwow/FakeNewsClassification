@@ -8,7 +8,7 @@ import xlsxwriter
 finalQuestions = []
 counter = 0
 ##load in openai api key for shared account
-openai.api_key = "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"
+openai.api_key = 
 
 ##for statement to iterate through a range of 0 - 120
 for i in range(0, 120):
